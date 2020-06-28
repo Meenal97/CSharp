@@ -1,0 +1,13 @@
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.exe
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\bin\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Calculater\obj\Debug\netcoreapp3.1\Calculater.genruntimeconfig.cache
