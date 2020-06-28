@@ -10,3 +10,4 @@ C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3
 C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.dll
 C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.pdb
 C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.genruntimeconfig.cache
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.csprojAssemblyReference.cache
