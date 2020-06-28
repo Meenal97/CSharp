@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\obj\Debug\LengthOfWords.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\bin\Debug\LengthOfWords.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\bin\Debug\LengthOfWords.exe
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\bin\Debug\LengthOfWords.pdb
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\obj\Debug\LengthOfWords.exe
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\obj\Debug\LengthOfWords.pdb
+C:\Users\Meenal\source\BasicOfCSharp\LengthOfWords\obj\Debug\LengthOfWords.csprojAssemblyReference.cache

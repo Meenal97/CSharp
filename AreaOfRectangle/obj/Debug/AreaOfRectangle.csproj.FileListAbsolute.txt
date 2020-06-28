@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\bin\Debug\AreaOfRectangle.pdb
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\obj\Debug\AreaOfRectangle.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\obj\Debug\AreaOfRectangle.exe
+C:\Users\Meenal\source\BasicOfCSharp\AreaOfRectangle\obj\Debug\AreaOfRectangle.pdb

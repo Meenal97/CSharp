@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\bin\Debug\NameWithDot.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\bin\Debug\NameWithDot.exe
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\bin\Debug\NameWithDot.pdb
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\obj\Debug\NameWithDot.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\obj\Debug\NameWithDot.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\obj\Debug\NameWithDot.exe
+C:\Users\Meenal\source\BasicOfCSharp\NameWithDot\obj\Debug\NameWithDot.pdb
