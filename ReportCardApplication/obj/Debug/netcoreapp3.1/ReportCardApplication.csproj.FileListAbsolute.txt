@@ -1,0 +1,12 @@
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.exe
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.dll
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\bin\Debug\netcoreapp3.1\ReportCardApplication.pdb
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.dll
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.pdb
+C:\Users\Meenal\source\BasicOfCSharp\ReportCardApplication\obj\Debug\netcoreapp3.1\ReportCardApplication.genruntimeconfig.cache
