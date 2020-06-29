@@ -1,0 +1,13 @@
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.exe
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.dll
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\bin\Debug\netcoreapp3.1\CountOnes.pdb
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.dll
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.pdb
+C:\Users\Meenal\source\BasicOfCSharp\CountOnes\obj\Debug\netcoreapp3.1\CountOnes.genruntimeconfig.cache
