@@ -1,0 +1,13 @@
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.exe
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.dll
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.pdb
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.dll
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.pdb
+C:\Users\Meenal\source\BasicOfCSharp\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.genruntimeconfig.cache
