@@ -1,0 +1,13 @@
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.exe
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.dll
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\Name.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.dll
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.genruntimeconfig.cache
