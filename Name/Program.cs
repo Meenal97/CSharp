@@ -21,11 +21,14 @@ namespace Name
 
             Datatype d = new Datatype();
             d.datatype2();
-        
+
+            // Nullable types
+            int? n = null;
+            Console.WriteLine("N : {0}", n);
         }
 
 
-
+    
        
     }
 }
