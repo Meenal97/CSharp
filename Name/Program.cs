@@ -25,10 +25,18 @@ namespace Name
             // Nullable types
             int? n = null;
             Console.WriteLine("N : {0}", n);
+
+            int Number;
+            Number = n ?? 100;
+            Console.WriteLine("N: {0}", Number);
+
+
+            Armstring a = new Armstring();
+            Console.WriteLine(a.ArmstongOrnot(153));
         }
 
 
-    
+       
        
     }
 }
