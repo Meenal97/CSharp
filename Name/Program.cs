@@ -33,6 +33,10 @@ namespace Name
 
             Armstring a = new Armstring();
             Console.WriteLine(a.ArmstongOrnot(153));
+
+            EvenNumbers e = new EvenNumbers();
+            e.Even();
+
         }
 
 
