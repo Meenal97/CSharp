@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Name
@@ -14,6 +15,12 @@ namespace Name
         public static void SimpleMethod2(ref int j)
         {
             j = 100 + j;
+        }
+
+        public static void Calculate(int i,int j,out int Sum,out int Product)
+        {
+            Sum = i + j;
+            Product = i * j;
         }
     }
 }

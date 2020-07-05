@@ -43,6 +43,13 @@ namespace Name
             Parameter.SimpleMethod2(ref k);
             Console.WriteLine("Pass by value : {0}", i);
             Console.WriteLine("Pass by reference : {0}", k);
+
+
+            int total = 0;
+            int product = 0;
+            Parameter.Calculate(10, 20, out total, out product);
+
+            Console.WriteLine("Sum is {0} && Product is {1}", total, product);
         }
 
 
