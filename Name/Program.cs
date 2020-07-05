@@ -36,7 +36,7 @@ namespace Name
 
             EvenNumbers e = new EvenNumbers();
             e.Even();
-
+            EvenNumbers.EvenNumber(30);
         }
 
 

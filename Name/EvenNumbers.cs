@@ -15,5 +15,15 @@ namespace Name
                 start += 2;
             }
         }
+
+        public static void EvenNumber(int end)
+        {
+            int start = 0;
+            while (start <= end)
+            {
+                Console.WriteLine(start);
+                start += 2;
+            }
+        }
     }
 }
