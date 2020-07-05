@@ -11,3 +11,8 @@ C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.AssemblyI
 C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.dll
 C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.pdb
 C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.genruntimeconfig.cache
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\ProjectA.TeamA.dll
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\ProjectA.TeamB.dll
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\ProjectA.TeamA.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Name\bin\Debug\netcoreapp3.1\ProjectA.TeamB.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Name\obj\Debug\netcoreapp3.1\Name.csproj.CopyComplete

@@ -26,7 +26,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+                "projectPath": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+              },
+              "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+                "projectPath": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -54,6 +61,28 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
+        "projectName": "ProjectA.TeamA",
+        "projectPath": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+        "projectName": "ProjectA.TeamB",
+        "projectPath": "C:\\Users\\Meenal\\source\\BasicOfCSharp\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

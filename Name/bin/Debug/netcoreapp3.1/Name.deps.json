@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Name/1.0.0": {
+        "dependencies": {
+          "ProjectA.TeamA": "1.0.0",
+          "ProjectA.TeamB": "1.0.0"
+        },
         "runtime": {
           "Name.dll": {}
+        }
+      },
+      "ProjectA.TeamA/1.0.0": {
+        "runtime": {
+          "ProjectA.TeamA.dll": {}
+        }
+      },
+      "ProjectA.TeamB/1.0.0": {
+        "runtime": {
+          "ProjectA.TeamB.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectA.TeamA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectA.TeamB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,6 @@
 ﻿using System;
+using PATA = ProjectA.TeamA;
+using PATB = ProjectA.TeamB;
 
 
 namespace Name
@@ -7,6 +9,8 @@ namespace Name
     {
         static void Main(string[] args)
         {
+           
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("What is your name");
             string str = Console.ReadLine();
@@ -50,6 +54,10 @@ namespace Name
             Parameter.Calculate(10, 20, out total, out product);
 
             Console.WriteLine("Sum is {0} && Product is {1}", total, product);
+
+            PATA.ClassA.print();
+            PATB.ClassA.print();
+
         }
 
 
