@@ -37,6 +37,12 @@ namespace Name
             EvenNumbers e = new EvenNumbers();
             e.Even();
             EvenNumbers.EvenNumber(30);
+
+            int i = 80, k= 80;
+            Parameter.SimpleMethod(i);
+            Parameter.SimpleMethod2(ref k);
+            Console.WriteLine("Pass by value : {0}", i);
+            Console.WriteLine("Pass by reference : {0}", k);
         }
 
 
