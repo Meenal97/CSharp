@@ -1,0 +1,6 @@
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.dll
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.dll
+C:\Users\Meenal\source\BasicOfCSharp\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.pdb
