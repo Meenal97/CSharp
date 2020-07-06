@@ -58,6 +58,11 @@ namespace Name
             PATA.ClassA.print();
             PATB.ClassA.print();
 
+
+            Constructers c1 = new Constructers("P","T");
+            Constructers c2 = new Constructers();
+            c1.FullName();
+            c2.FullName();
         }
 
 
