@@ -100,6 +100,21 @@ namespace Name
             PTE3.lastName = "Last time";
             ((MethodHiding)PTE3).printClass();
 
+
+            Console.WriteLine("**************************************************************************************************");
+            Console.WriteLine("**************************************************************************************************");
+
+
+            Polymorphism[] emp = new Polymorphism[4];
+            emp[0] = new Polymorphism();
+            emp[1] = new permanentEmployee();
+            emp[2] = new tempEmployee();
+            emp[3] = new fullEmployee();
+
+            foreach(Polymorphism e1 in emp)
+            {
+                e1.printClass();
+            }
         }
 
 
