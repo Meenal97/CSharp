@@ -63,6 +63,16 @@ namespace Name
             Constructers c2 = new Constructers();
             c1.FullName();
             c2.FullName();
+
+
+            StaticAndInstance s1 = new StaticAndInstance(6);
+            float area = s1.Area();
+            Console.WriteLine("Area is {0} ", area);
+
+
+            StaticAndInstance s2 = new StaticAndInstance(5);
+            float area2 = s2.Area();
+            Console.WriteLine("Area is {0} ", area2);
         }
 
 
