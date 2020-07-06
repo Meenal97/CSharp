@@ -12,7 +12,7 @@ namespace Name
         static StaticAndInstance()
         {
             Console.WriteLine("Static Method Called");
-            _PI = 3.141F;
+            StaticAndInstance._PI = 3.141F;
         }
         public StaticAndInstance(int Radius)
         {

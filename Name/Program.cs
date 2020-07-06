@@ -73,6 +73,33 @@ namespace Name
             StaticAndInstance s2 = new StaticAndInstance(5);
             float area2 = s2.Area();
             Console.WriteLine("Area is {0} ", area2);
+
+
+
+            PartTimeEmployee PTE = new PartTimeEmployee();
+            PTE.firstName = "Part Time";
+            PTE.lastName = "Last time";
+            PTE.printClass();
+
+
+            PermanentEmployee PE = new PermanentEmployee();
+            PE.firstName = "Part Time";
+            PE.lastName = "Last time";
+            PE.printClass();
+
+            /* Calling a base method from a derived class */
+            Console.WriteLine("************************************************************************************");
+            Console.WriteLine("***************      Calling a base method from a derived class    *****************");
+            MethodHiding PTE2 = new PartTimeEmployee();
+            PTE2.firstName = "Part Time";
+            PTE2.lastName = "Last time";
+            PTE2.printClass();
+
+            PartTimeEmployee PTE3 = new PartTimeEmployee();
+            PTE3.firstName = "Part Time";
+            PTE3.lastName = "Last time";
+            ((MethodHiding)PTE3).printClass();
+
         }
 
 
