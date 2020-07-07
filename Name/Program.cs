@@ -115,6 +115,13 @@ namespace Name
             {
                 e1.printClass();
             }
+
+
+            Properties p = new Properties();
+            p.SetID(100);
+            p.GetID();
+
+
         }
 
 
