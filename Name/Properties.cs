@@ -24,5 +24,28 @@ namespace Name
         {
             return _id;
         }
+
+
+        public void SetName(string name)
+        {
+            if(string.IsNullOrEmpty(name))
+            {
+                throw new Exception("Name cannot be null");
+            }
+            this._name = name;
+        }
+
+        public string GetName()
+        {
+            if(string.IsNullOrEmpty(this._name))
+            {
+                return "No Name";
+            }
+            else
+            {
+                return this._name;
+            }
+        }
+
     }
 }

@@ -119,7 +119,10 @@ namespace Name
 
             Properties p = new Properties();
             p.SetID(100);
-            p.GetID();
+            Console.WriteLine(p.GetID());
+
+            p.SetName("Meenal");
+            Console.WriteLine(p.GetName());
 
 
         }
