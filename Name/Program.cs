@@ -126,6 +126,20 @@ namespace Name
 
             Console.WriteLine(p.GetPassMarks());
 
+
+            Structure s = new Structure(101, "Mark");
+            s.PrintDetails();
+
+
+            /* Object Intializer syntax */
+
+            Structure sm = new Structure
+            {
+                ID = 102,
+                Name = "Rob"
+            };
+            sm.PrintDetails();
+
         }
 
 
