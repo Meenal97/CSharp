@@ -121,9 +121,10 @@ namespace Name
             p.SetID(100);
             Console.WriteLine(p.GetID());
 
-            p.SetName("Meenal");
             Console.WriteLine(p.GetName());
 
+
+            Console.WriteLine(p.GetPassMarks());
 
         }
 

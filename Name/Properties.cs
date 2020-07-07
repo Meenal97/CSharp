@@ -10,6 +10,10 @@ namespace Name
         private string _name;
         private int pass_marks = 35;
 
+        public int GetPassMarks()
+        {
+            return this.pass_marks;
+        }
         public void SetID(int id)
         {
             if(id <= 0)
