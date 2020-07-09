@@ -140,6 +140,17 @@ namespace Name
             };
             sm.PrintDetails();
 
+
+
+            ReferenceVsValueType r1 = new ReferenceVsValueType();
+            r1.name = "Mark";
+            r1.num = 20;
+
+            ReferenceVsValueType r2 = r1;
+            r2.name = "Mary";
+
+            Console.WriteLine("Name: {0} && {1}", r1.name, r2.name);
+
         }
 
 
