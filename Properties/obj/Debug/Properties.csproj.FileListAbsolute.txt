@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\Properties\bin\Debug\Properties.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\Properties\bin\Debug\Properties.exe
+C:\Users\Meenal\source\BasicOfCSharp\Properties\bin\Debug\Properties.pdb
+C:\Users\Meenal\source\BasicOfCSharp\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\Properties\obj\Debug\Properties.exe
+C:\Users\Meenal\source\BasicOfCSharp\Properties\obj\Debug\Properties.pdb
