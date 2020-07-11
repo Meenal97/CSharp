@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\bin\Debug\GetterSetter.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\bin\Debug\GetterSetter.exe
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\bin\Debug\GetterSetter.pdb
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\obj\Debug\GetterSetter.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\obj\Debug\GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\obj\Debug\GetterSetter.exe
+C:\Users\Meenal\source\BasicOfCSharp\GetterSetter\obj\Debug\GetterSetter.pdb
