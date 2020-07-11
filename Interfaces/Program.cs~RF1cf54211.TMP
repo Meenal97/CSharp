@@ -8,7 +8,8 @@ namespace Interfaces
 {
     interface ICustomer1
     {
-        void Print1();    
+        void Print1();
+        
     }
     interface I1
     {
@@ -30,10 +31,10 @@ namespace Interfaces
         {
             Console.WriteLine("Print2");
         }
-        /* Making it availbale, by default to Customer */
-        public void InterfaceMethod()
+
+        void I1.InterfaceMethod()
         {
-            Console.WriteLine("Interface 1, InterfaceMethod, Making it default ");
+            Console.WriteLine("Interface 1, InterfaceMethod ");
         }
 
         void ICustomer2.InterfaceMethod()
@@ -53,7 +54,7 @@ namespace Interfaces
             Customer c1 = new Customer();
             ((I1)c1).InterfaceMethod();
             ((ICustomer2)c1).InterfaceMethod();
-            c1.InterfaceMethod();
+
 
             Console.ReadKey();
         }
