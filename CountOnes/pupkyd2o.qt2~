@@ -9,15 +9,15 @@ namespace CountOnes
             string str = "11441155";
             char[] strArray = str.ToCharArray();
             int count = 0;
-            for(int s=0; s < strArray.Length ; s++)
+            foreach(char s in strArray)
             {
-                 if(strArray[s] == '1')
-                { 
+                if(s == "1")
+                {
                     count++;
                 }
                
             }
-           Console.WriteLine("One of one {0} ", count);
+            
         }
     }
 }
