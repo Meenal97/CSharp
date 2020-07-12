@@ -12,6 +12,15 @@ namespace DelegateBasic
         public static void Hello(string strMessage)
         {
             Console.WriteLine(strMessage);
+
+            List<Employee> empList = new List<Employee>();
+
+            empList.Add(new Employee() { ID = 101, name = "Mary", salary = 100000, experience = 3 });
+            empList.Add(new Employee() { ID = 102, name = "John", salary = 60000, experience = 6 }); 
+            empList.Add(new Employee() { ID = 103, name = "Mike", salary = 40000, experience = 7 });
+            empList.Add(new Employee() { ID = 104, name = "Tomm", salary = 30000, experience = 2 });
+
+            Employee.PromoteEmployee(empList);
         }
         static void Main(string[] args)
         {
