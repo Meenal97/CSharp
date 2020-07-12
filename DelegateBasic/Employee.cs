@@ -24,7 +24,7 @@ namespace DelegateBasic
                 }
             }
         }
-
+        
         public static void NewSalary(List<Employee> employeeList, IsPromotable isEligiblePromotable)
         {
             foreach (Employee employee in employeeList)

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,11 +24,11 @@ namespace DelegateBasic
             empList.Add(new Employee() { ID = 104, name = "Tomm", salary = 30000, experience = 2 });
 
             IsPromotable isPromotable = new IsPromotable(Promote);
-            IsPromotable isPromotable1 = new IsPromotable(NewSalary);
+     
 
             Employee.PromoteEmployee(empList, isPromotable);
             Console.WriteLine("********************************************");
-            Employee.NewSalary(empList, isPromotable1);
+            Employee.NewSalary(empList, emp => emp.salary <= 50000);
         }
 
         public static bool Promote(Employee employee)
@@ -35,14 +36,15 @@ namespace DelegateBasic
             return employee.experience >= 5 ? true : false;
         }
 
-        public static bool NewSalary(Employee employee)
-        {
-            return employee.salary >= 50000 ? true : false;
-        }
+        //public static bool NewSalary(Employee employee)
+        //{
+        //    return employee.salary >= 50000 ? true : false;
+        //}
         static void Main(string[] args)
         {
             HelloFuncDelegate del = new HelloFuncDelegate(Hello);
             del("Hello from Delegate");
+         
             Console.ReadKey();
         }
     }
