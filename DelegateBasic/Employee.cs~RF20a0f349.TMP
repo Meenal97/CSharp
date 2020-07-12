@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DelegateBasic
 {
-    public class Employee
+    class Employee
     {
         public int ID;
         public string name;
@@ -17,21 +17,9 @@ namespace DelegateBasic
         {
             foreach(Employee employee in employeeList)
             {
-                if(isEligiblePromotable(employee))
+                if(isEligiblePromotable)
                 {
                     Console.WriteLine(employee.name + " - Promote");
-                    
-                }
-            }
-        }
-
-        public static void NewSalary(List<Employee> employeeList, IsPromotable isEligiblePromotable)
-        {
-            foreach (Employee employee in employeeList)
-            {
-                if (isEligiblePromotable(employee))
-                {
-                    Console.WriteLine(employee.name + " New Salary - {0} ",  Convert.ToInt32(employee.salary) + 100000  );
                 }
             }
         }
