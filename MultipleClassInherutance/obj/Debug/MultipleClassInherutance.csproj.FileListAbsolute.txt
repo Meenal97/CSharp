@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\obj\Debug\MultipleClassInherutance.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\obj\Debug\MultipleClassInherutance.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\bin\Debug\MultipleClassInherutance.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\bin\Debug\MultipleClassInherutance.exe
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\bin\Debug\MultipleClassInherutance.pdb
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\obj\Debug\MultipleClassInherutance.exe
+C:\Users\Meenal\source\BasicOfCSharp\MultipleClassInherutance\obj\Debug\MultipleClassInherutance.pdb
