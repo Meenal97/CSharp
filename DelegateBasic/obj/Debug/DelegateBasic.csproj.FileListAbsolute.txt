@@ -1,0 +1,7 @@
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\bin\Debug\DelegateBasic.exe.config
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\bin\Debug\DelegateBasic.exe
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\bin\Debug\DelegateBasic.pdb
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\obj\Debug\DelegateBasic.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\obj\Debug\DelegateBasic.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\obj\Debug\DelegateBasic.exe
+C:\Users\Meenal\source\BasicOfCSharp\DelegateBasic\obj\Debug\DelegateBasic.pdb
