@@ -1,0 +1,13 @@
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.exe
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.deps.json
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.runtimeconfig.json
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.runtimeconfig.dev.json
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.dll
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\bin\Debug\netcoreapp3.1\ExpectionsINCsharp.pdb
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.csprojAssemblyReference.cache
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.AssemblyInfoInputs.cache
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.AssemblyInfo.cs
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.dll
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.pdb
+C:\Users\Meenal\source\BasicOfCSharp\ExpectionsINCsharp\obj\Debug\netcoreapp3.1\ExpectionsINCsharp.genruntimeconfig.cache

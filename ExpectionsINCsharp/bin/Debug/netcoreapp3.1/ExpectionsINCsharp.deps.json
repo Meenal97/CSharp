@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExpectionsINCsharp/1.0.0": {
+        "runtime": {
+          "ExpectionsINCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpectionsINCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

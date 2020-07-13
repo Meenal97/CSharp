@@ -1,0 +1,32 @@
+﻿using System;
+using System.IO;
+
+namespace ExpectionsINCsharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                StreamReader streadreader = new StreamReader(@"C:\Users\Meenal\Documents\sample\Hllo.txt");
+                Console.WriteLine(streadreader.ReadToEnd());
+                streadreader.Close();
+            }
+            //catch(filenotfoundexception ex)
+            //{
+            //    console.writeline("file {0} not found", ex.filename);
+            //    console.writeline(ex.message);
+            //    console.writeline();
+            //    console.writeline();
+            //    console.writeline(ex.stacktrace);
+            //}
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+
+                Console.WriteLine(ex.StackTrace);
+            }
+        }
+    }
+}
