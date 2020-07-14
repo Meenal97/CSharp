@@ -1,0 +1,33 @@
+﻿using System;
+using System.IO;
+using System.Security.Cryptography.X509Certificates;
+
+namespace ExpectionsINCsharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                StreamReader streadreader = new StreamReader(@"C:\Users\Meenal\Docum_ents\sample\Hello.txt");
+                Console.WriteLine(streadreader.ReadToEnd());
+                streadreader.Close();
+            }
+            catch(FileNotFoundException ex)
+            {
+                Console.WriteLine("File {0} not found", ex.FileName);
+                Console.WriteLine();
+                Console.WriteLine(ex.Message);
+                Console.WriteLine();
+                Console.WriteLine(ex.StackTrace);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine();
+                Console.WriteLine();
+                Console.WriteLine(ex.StackTrace);
+            }
+        }
+    }
+}

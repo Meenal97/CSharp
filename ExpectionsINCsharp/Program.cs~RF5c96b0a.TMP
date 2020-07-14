@@ -8,11 +8,11 @@ namespace ExpectionsINCsharp
     {
         static void Main(string[] args)
         {
-            StreamReader streamreader = null;
             try
             {
-                streamreader = new StreamReader(@"C:\Users\Meenal\Documents\sample\Hello.txt");
-                Console.WriteLine(streamreader.ReadToEnd());
+                StreamReader streadreader = new StreamReader(@"C:\Users\Meenal\Documen_ts\sample\Hello.txt");
+                Console.WriteLine(streadreader.ReadToEnd());
+                streadreader.Close();
             }
             catch(FileNotFoundException ex)
             {
@@ -22,27 +22,12 @@ namespace ExpectionsINCsharp
                 Console.WriteLine();
                 Console.WriteLine(ex.StackTrace);
             }
-            catch (DirectoryNotFoundException ex)
-            {
-                Console.WriteLine();
-                Console.WriteLine(ex.Message);
-                Console.WriteLine();
-                Console.WriteLine(ex.StackTrace);
-            }
-            catch (Exception ex)
+            catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine();
                 Console.WriteLine();
                 Console.WriteLine(ex.StackTrace);
-            }
-            finally
-            {
-                if(streamreader != null)
-                {
-                    streamreader.Close();
-                }
-                Console.WriteLine("Finally Executed");
             }
         }
     }

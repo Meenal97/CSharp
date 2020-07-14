@@ -11,7 +11,7 @@ namespace ExpectionsINCsharp
             StreamReader streamreader = null;
             try
             {
-                streamreader = new StreamReader(@"C:\Users\Meenal\Documents\sample\Hello.txt");
+                streamreader = new StreamReader(@"C:\Users\Meenal\Docum_ents\sample\Hello.txt");
                 Console.WriteLine(streamreader.ReadToEnd());
             }
             catch(FileNotFoundException ex)
@@ -38,10 +38,7 @@ namespace ExpectionsINCsharp
             }
             finally
             {
-                if(streamreader != null)
-                {
-                    streamreader.Close();
-                }
+                streamreader.Close();
                 Console.WriteLine("Finally Executed");
             }
         }
